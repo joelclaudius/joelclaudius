@@ -1,8 +1,6 @@
 
 <h1 align="center">Hello 👋, I'm Claudius Joel</h1>
 <h3 align="center">A passionate DevOps Engineer from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2l4NGpydjFhZHRrcmN1MzhvaDJ0ZjR4a2JhdDczdmx2bXRmYm9yaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelclaudius&label=Profile%20views&color=0e75b6&style=flat" alt="joelclaudius" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joelclaudius" alt="joelclaudius" /></a> </p>
