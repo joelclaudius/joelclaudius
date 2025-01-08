@@ -112,8 +112,10 @@
 
 ---
 
-<div style="width: 100%; background: linear-gradient(135deg, #3b3b3b, #1e1e1e); color: white; text-align: center; padding: 20px;">
+<div style="width: 100%; background: linear-gradient(135deg, #3b3b3b, #1e1e1e); color: white; text-align: center; padding: 20px; display: flex; flex-direction: column; align-items: center;">
   <h2 style="font-size: 24px; font-weight: bold; margin: 0;">Thanks for visiting! 😊</h2>
   <p style="font-size: 18px; margin: 10px 0;">Let’s build something amazing together.</p>
   <p style="font-size: 16px; color: #aaaaaa;">Crafting solutions that inspire and innovate.</p>
 </div>
+
+
