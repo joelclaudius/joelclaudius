@@ -1,7 +1,4 @@
-#  print("Hello World 😎.")
-## print("I'm Claudius Joel!") 
-
-<div style="width: 100%; background: linear-gradient(135deg, #f06, #ff9);">
+<div style="width: 100%; background: linear-gradient(135deg, #6a11cb, #2575fc);">
   <div align="center">
     <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Welcome Banner" height="400px" width="100%" />
   </div>
@@ -91,7 +88,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joelclaudius&show_icons=true&theme=radical&hide_title=false" alt="Joel's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=joelclaudius&theme=radical" alt="Joel's Streak Stats" />
+  <img src="https://streak-stats.herokuapp.com/?user=joelclaudius&theme=radical" alt="Joel's Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelclaudius&layout=compact&theme=radical" alt="Joel's Top Languages" />
 </div>
 
@@ -118,5 +115,3 @@
   <p style="font-size: 18px; margin: 10px 0;">Let’s build something amazing together.</p>
   <p style="font-size: 16px; color: #aaaaaa;">Crafting solutions that inspire and innovate.</p>
 </div>
-
-
