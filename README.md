@@ -10,7 +10,7 @@
 
 - 🌟 **Software Engineer | DevOps Specialist | Digital Marketer | Designer**  
 - 💡 Passionate about **SaaS development**, **marketing automation**, and **AI-driven solutions**.  
-- 🎨 Skilled in design tools like **Figma** and **Adobe Photoshop** for creating intuitive and visually stunning interfaces.  
+- 🎨 Skilled in design tools like **Figma** and **Adobe Photoshop** for creating intuitive and visually stunning interfaces. ..
 - 🔍 Currently exploring **Langchain**, **OpenAI**, **Gemini**, and **Hugging Face** to build intelligent and scalable tools.  
 - 🌱 Lifelong learner, always exploring emerging technologies and best practices.  
 
